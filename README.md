@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **RamaReksotinoyo/RamaReksotinoyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  Hi, i'm here!
+</div>
+<br>
+<p align="center">
+  Interested on all things about ML and well-documented code. <br>
+</p>
+

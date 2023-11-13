@@ -19,7 +19,5 @@ Here are some ideas to get you started:
   Hi, i'm here!
 </div>
 <br>
-<p align="center">
-  Interested on all things about ML and well-documented code. <br>
-</p>
+
 
